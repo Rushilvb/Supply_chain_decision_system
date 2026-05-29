@@ -1,0 +1,22 @@
+# data - never commit raw data
+data/raw/
+data/processed/
+data/external/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# mlflow
+mlruns/
+
+# misc
+.DS_Store
+*.log
