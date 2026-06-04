@@ -1,0 +1,23 @@
+artifact_path: file:///c:\Users\rushi\supply_chain_decision_system\supply_chain_decision_system\mlruns/776703759429033158/models/m-fd7f96ebb6c44c70987e74f74c3ac25f/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.6.0
+    model_class: lightgbm.sklearn.LGBMRegressor
+    serialization_format: cloudpickle
+    skops_trusted_types: null
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.11.9
+mlflow_version: 3.12.0
+model_id: m-fd7f96ebb6c44c70987e74f74c3ac25f
+model_size_bytes: 8916102
+model_uuid: m-fd7f96ebb6c44c70987e74f74c3ac25f
+prompts: null
+run_id: 07a3a47ff00f485fb7ccc1dae2a3a9de
+utc_time_created: '2026-06-04 06:28:42.223141'

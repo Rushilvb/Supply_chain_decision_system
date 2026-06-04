@@ -1,0 +1,10 @@
+artifact_location: file:///C:\Users\rushi\supply_chain_decision_system\mlruns/689257015929943509/models/m-94451008ce3b4e98b83b211aeec102c9/artifacts
+creation_timestamp: 1780554561921
+experiment_id: '689257015929943509'
+last_updated_timestamp: 1780554568456
+model_id: m-94451008ce3b4e98b83b211aeec102c9
+model_type: null
+name: model
+source_run_id: 1317ea1b418d4d2192b60c173e977741
+status: 2
+status_message: null

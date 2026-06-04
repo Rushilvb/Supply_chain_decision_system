@@ -23,7 +23,9 @@ walk_forward:
 
 decision:
   lead_time_days: 7
-  safety_stock_multiplier: 1.5
+  safety_stock_multiplier: 1.5        # normal days
+  promo_safety_stock_multiplier: 2.0  # promo days — 37% higher error
+  wednesday_safety_stock_multiplier: 2.5  # wednesday — highest error
   stockout_risk_threshold: 0.3
   overstock_threshold: 2.0
 

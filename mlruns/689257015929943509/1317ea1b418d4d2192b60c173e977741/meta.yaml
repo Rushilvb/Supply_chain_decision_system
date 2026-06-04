@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\rushi\supply_chain_decision_system\mlruns/689257015929943509/1317ea1b418d4d2192b60c173e977741/artifacts
+end_time: 1780554568468
+entry_point_name: ''
+experiment_id: '689257015929943509'
+lifecycle_stage: active
+run_id: 1317ea1b418d4d2192b60c173e977741
+run_name: lgbm_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554561799
+status: 3
+tags: []
+user_id: rushi
